@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<global>
+<state>
+<sensor type="linear acceleration"><value>0.0</value><value>0.0</value><value>0.0</value></sensor>
+<sensor type="orientation"><value>282.0</value><value>-17.0</value><value>0.0</value></sensor>
+<sensor type="magnetic field"><value>23.609137</value><value>-13.63262</value><value>-40.985584</value></sensor>
+<sensor type="light"><value>400.0</value></sensor><sensor type="proximity"><value>10.0</value></sensor>
+<sensor type="gravity"><value>0.0</value><value>2.867187</value><value>9.378146</value></sensor>
+<sensor type="accelerometer"><value>0.0</value><value>2.867187</value><value>9.378146</value></sensor>
+<sensor type="temperature"><value>17.0</value></sensor><sensor type="rotation vector"><value>-0.14780942</value><value>-0.6293204</value><value>0.0</value></sensor>
+<sensor type="pressure"><value>0.5</value></sensor><sensor type="gyroscope"><value>0.0</value><value>-3.9856118E-4</value><value>0.0</value></sensor>
+</state>
+<state>
+<sensor type="linear acceleration"><value>-0.0</value><value>-0.0</value><value>0.0</value></sensor>
+<sensor type="orientation"><value>266.0</value><value>-86.0</value><value>-180.0</value></sensor>
+<sensor type="magnetic field"><value>-22.40406</value><value>-43.59993</value><value>-4.490209</value></sensor><sensor type="light"><value>400.0</value></sensor>
+<sensor type="proximity"><value>10.0</value></sensor><sensor type="gravity"><value>0.0</value><value>9.782762</value><value>-0.6840773</value></sensor>
+<sensor type="accelerometer"><value>0.0</value><value>9.782762</value><value>-0.6840773</value></sensor><sensor type="temperature"><value>17.0</value></sensor>
+<sensor type="rotation vector"><value>-0.7313537</value><value>0.6819984</value><value>0.0</value></sensor><sensor type="pressure"><value>0.5</value></sensor>
+<sensor type="gyroscope"><value>0.0</value><value>0.0</value><value>0.0</value></sensor>
+</state>
+<state><sensor type="linear acceleration"><value>0.0</value><value>-0.0</value><value>0.0</value></sensor><sensor type="orientation"><value>175.0</value><value>-64.0</value><value>0.0</value></sensor><sensor type="magnetic field"><value>-7.9105077</value><value>-48.572636</value><value>1.0865148</value></sensor><sensor type="light"><value>400.0</value></sensor><sensor type="proximity"><value>10.0</value></sensor><sensor type="gravity"><value>-0.0</value><value>8.814158</value><value>4.2989526</value></sensor><sensor type="accelerometer"><value>0.0</value><value>8.814158</value><value>4.2989526</value></sensor><sensor type="temperature"><value>17.0</value></sensor><sensor type="rotation vector"><value>-0.52991927</value><value>0.99904823</value><value>0.0</value></sensor><sensor type="pressure"><value>0.5</value></sensor><sensor type="gyroscope"><value>0.0</value><value>0.0</value><value>0.0</value></sensor></state>
+<state>
+<sensor type="linear acceleration"><value>0.0</value><value>0.0</value><value>0.0</value></sensor>
+<sensor type="orientation"><value>282.0</value><value>-17.0</value><value>0.0</value></sensor>
+<sensor type="magnetic field"><value>23.609137</value><value>-13.63262</value><value>-40.985584</value></sensor>
+<sensor type="light"><value>400.0</value></sensor><sensor type="proximity"><value>10.0</value></sensor>
+<sensor type="gravity"><value>0.0</value><value>2.867187</value><value>9.378146</value></sensor>
+<sensor type="accelerometer"><value>0.0</value><value>2.867187</value><value>9.378146</value></sensor>
+<sensor type="temperature"><value>17.0</value></sensor><sensor type="rotation vector"><value>-0.14780942</value><value>-0.6293204</value><value>0.0</value></sensor>
+<sensor type="pressure"><value>0.5</value></sensor><sensor type="gyroscope"><value>0.0</value><value>-3.9856118E-4</value><value>0.0</value></sensor>
+</state>
+<state><sensor type="linear acceleration"><value>0.0</value><value>-0.0</value><value>0.0</value></sensor><sensor type="orientation"><value>175.0</value><value>-64.0</value><value>0.0</value></sensor><sensor type="magnetic field"><value>-7.9105077</value><value>-48.572636</value><value>1.0865148</value></sensor><sensor type="light"><value>400.0</value></sensor><sensor type="proximity"><value>10.0</value></sensor><sensor type="gravity"><value>-0.0</value><value>8.814158</value><value>4.2989526</value></sensor><sensor type="accelerometer"><value>0.0</value><value>8.814158</value><value>4.2989526</value></sensor><sensor type="temperature"><value>17.0</value></sensor><sensor type="rotation vector"><value>-0.52991927</value><value>0.99904823</value><value>0.0</value></sensor><sensor type="pressure"><value>0.5</value></sensor><sensor type="gyroscope"><value>0.0</value><value>0.0</value><value>0.0</value></sensor></state>
+</global>
